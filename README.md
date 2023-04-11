@@ -1,0 +1,3 @@
+## README
+This is a repo that stores notes on CTF practices.
+Will be updated...
